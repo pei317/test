@@ -1,1 +1,4 @@
-急死AD纳斯
+#include<studio.h>
+int main(){
+	return 0;
+}
